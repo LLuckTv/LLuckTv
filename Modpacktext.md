@@ -7,9 +7,9 @@ A modpack made for me and my friends to have the best experience that lethal com
 I am spending hours and hours testing mods and configuring them to do a good balance without things getting out of control
 
 - my goal is to make the best modpack experience for lethal company so if you want a modpack to play with your friends give this one a try
+  
+![Sem Título-3](https://github.com/user-attachments/assets/d02d355c-9336-4bde-a773-06814e9d610e)
 
-
-## What this modpack offer? 
 - 4 new Weathers
 - 11 new Enemies (and Kidnapper fox)
 - 9 New Moons
